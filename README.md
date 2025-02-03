@@ -1,6 +1,7 @@
 # Emu68
 M68K emulation for ARM
 
+Tinkered and edited by myself. feel free to contribute
 
 
 # Building instructions
