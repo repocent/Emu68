@@ -31,7 +31,7 @@ sudo cp /usr/aarch64-linux-gnu/include/gnu/stubs-lp64.h /usr/aarch64-linux-gnu/i
 One might wonder how it could work if a little-endian header is taken for the big-endian target. Well, in this case it is fully possible - this file is almost empty. At this point everything is configured properly and building of Emu68 can start. First, clone the repository
 
 ```bash
-git clone https://github.com/michalsc/Emu68.git
+git clone https://github.com/repocent/Emu68.git
 ```
 
 After entering the ``Emu68`` directory created by git, one need to pull the submodules
