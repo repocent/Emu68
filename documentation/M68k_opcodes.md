@@ -1,6 +1,6 @@
 # Status of M68K Opcode implementation
 
-Group | Opcode | Mode          |X|N|Z|V|C| Implemented | Tested
+Group | Opcode | Mode          |X|N|Z|V|C| Implemented | Tested 
 --|------------|---------------|-|-|-|-|-|-------------|-------
 0 | ORI to CCR | x             |x|x|x|x|x| NO          | NO
 0 | ORI to SR  | x             | | | | | | NO          | NO
